@@ -1,0 +1,3 @@
+name = "trupti"
+print(name)
+
